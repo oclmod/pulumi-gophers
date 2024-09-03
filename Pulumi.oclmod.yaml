@@ -1,0 +1,5 @@
+encryptionsalt: v1:Ija5A9zlMqU=:v1:f3bNwqItfRokModr:mTfwMUzmbD0/fVnBywWevxXDM1bF3w==
+config:
+  docker:host: npipe:////.//pipe//docker_engine
+  pulumi-gophers:gophersAPIPort: "8080"
+  pulumi-gophers:gophersAPIWatcherPort: "8000"
